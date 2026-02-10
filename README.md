@@ -8,8 +8,8 @@ A probabilistic weather prediction application using Markov Chains to simulate a
 
 ## **Overview**
 
-<img width="1246" height="1076" alt="Image" src="https://github.com/user-attachments/assets/9e1798e7-81d8-4d9e-8e65-2cc4a75497c5" />
 <img width="1386" height="1020" alt="Image" src="https://github.com/user-attachments/assets/a38db275-71a5-4988-bd78-3cbdbf2f4ca0" />
+<img width="1246" height="1076" alt="Image" src="https://github.com/user-attachments/assets/9e1798e7-81d8-4d9e-8e65-2cc4a75497c5" />
 
 This application implements a Markov Chain model to predict weather patterns across five US regions:
 - **Southwest** (AZ, NM, NV, UT, CO)
