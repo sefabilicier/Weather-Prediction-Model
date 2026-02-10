@@ -6,7 +6,10 @@ A probabilistic weather prediction application using Markov Chains to simulate a
 ![Python](https://img.shields.io/badge/Python-3.8+-blue?style=for-the-badge&logo=python&logoColor=white)
 ![Markov Chains](https://img.shields.io/badge/Markov_Chains-Probability_Model-8A2BE2?style=for-the-badge)
 
-## **📊 Overview**
+## **Overview**
+
+<img width="1246" height="1076" alt="Image" src="https://github.com/user-attachments/assets/9e1798e7-81d8-4d9e-8e65-2cc4a75497c5" />
+<img width="1386" height="1020" alt="Image" src="https://github.com/user-attachments/assets/a38db275-71a5-4988-bd78-3cbdbf2f4ca0" />
 
 This application implements a Markov Chain model to predict weather patterns across five US regions:
 - **Southwest** (AZ, NM, NV, UT, CO)
@@ -17,7 +20,7 @@ This application implements a Markov Chain model to predict weather patterns acr
 
 The model simulates transitions between three weather states: ☀️ **Sunny**, 🌧️ **Rainy**, and ☁️ **Cloudy**.
 
-## **✨ Features**
+## ** Features**
 
 ### **Core Functionality**
 - **Markov Chain Simulation**: Simulates weather transitions using probability matrices
@@ -33,7 +36,7 @@ The model simulates transitions between three weather states: ☀️ **Sunny**, 
 - **Weather Badges**: Visual representation of simulated weather sequences
 - **Tab-based Navigation**: Organized into three main sections
 
-## **📁 Project Structure**
+## ** Project Structure**
 ```text 
 weather-markov-model/
 ├── app.py # Main Streamlit application
@@ -47,7 +50,7 @@ weather-markov-model/
 ```
 
 
-## **🔧 Installation**
+## ** Installation**
 
 ### **Prerequisites**
 - Python 3.8 or higher
