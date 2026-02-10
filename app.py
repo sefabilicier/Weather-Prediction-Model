@@ -10,7 +10,6 @@ import visualization
 
 st.set_page_config(
     page_title="Probabilistic Weather Prediction Model",
-    page_icon="☁️",
     layout="centered",
     initial_sidebar_state="collapsed"
 )
